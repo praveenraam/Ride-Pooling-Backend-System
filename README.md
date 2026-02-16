@@ -230,3 +230,6 @@ Get Ride Status
 4. If not found → new ride group created with available cab.
 5. Pricing calculated dynamically.
 6. Cab released when ride group completes.
+
+## Architecture image
+![alt text](<Project Architecture.png>)
